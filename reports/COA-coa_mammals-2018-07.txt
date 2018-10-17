@@ -1,0 +1,43 @@
+Report for Institution Code COA, Resource coa_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:COA" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 977 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:COA" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 2
+
+
+End of report.
