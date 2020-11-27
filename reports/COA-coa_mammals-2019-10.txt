@@ -1,0 +1,56 @@
+Report for Institution Code COA, Resource coa_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 6
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rattus norvegicus 1982" ; Times: 1
+	Query: "Rattus norvegicus 1984" ; Times: 1
+	Query: "Rattus norvegicus 1987" ; Times: 1
+	Query: "Rattus norvegicus 1989" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Rattus norvegicus 2019" ; Times: 1
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1308 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Cryptotis OR Sorex OR Blarina county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+
+
+End of report.
