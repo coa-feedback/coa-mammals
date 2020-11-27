@@ -1,0 +1,53 @@
+Report for Institution Code COA, Resource coa_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:kerodon" ; Times: 2
+	Query: "Kerodon rupestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1023 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:kerodon" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+
+
+End of report.
