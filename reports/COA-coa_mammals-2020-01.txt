@@ -1,0 +1,51 @@
+Report for Institution Code COA, Resource coa_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kerodon rupestris" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 3
+	Query: "&#34;Synaptomys cooperi&#34; vntype:specimen stateprovince:&#34;maine&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;SYNAPTOMYS COOPERI&#34; vntype:specimen stateprovince:&#34;MAINE&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1584 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+
+
+End of report.
