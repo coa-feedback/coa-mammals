@@ -1,0 +1,99 @@
+Report for Institution Code COA, Resource coa_mammals
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-10 ; Times: 50
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Martes americana" ; Times: 2
+	Query: "scientificname:Lepus americanus" ; Times: 4
+	Query: "scientificname:Synaptomys cooperi" ; Times: 1
+	Query: "scientificname:Sorex palustris" ; Times: 1
+	Query: "scientificname:Tamias striatus" ; Times: 2
+	Query: "scientificname:Condylura cristata" ; Times: 2
+	Query: "scientificname:Mustela erminea" ; Times: 4
+	Query: "scientificname:Sciurus carolinensis" ; Times: 2
+	Query: "scientificname:Lynx rufus" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "scientificname:Parascalops breweri" ; Times: 2
+	Query: "scientificname:Sus scrofa" ; Times: 1
+	Query: "scientificname:Phoca vitulina" ; Times: 2
+	Query: "scientificname:Mephitis mephitis" ; Times: 2
+	Query: "scientificname:Marmota monax" ; Times: 4
+	Query: "scientificname:Mustela frenata" ; Times: 4
+	Query: "scientificname:Castor Canadensis" ; Times: 2
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "scientificname:Rattus norvegicus" ; Times: 4
+	Query: "scientificname:Sorex fumeus" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "scientificname:Glaucomys sabrinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 842 download events in this period)
+Total number of records downloaded: 130
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 3
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 6
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:brevicauda genus:Blarina stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "stolley" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "mustela erminea" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+
+
+End of report.
